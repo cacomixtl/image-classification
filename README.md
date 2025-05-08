@@ -126,7 +126,7 @@ This performance was achieved after fine-tuning the EfficientNetB0 model. While 
 
 ## License
 
-*(Optional: Add your chosen license here, e.g., MIT, Apache 2.0)*
+*This project is licensed under the terms of the MIT license.
 
 ## Authors
 
